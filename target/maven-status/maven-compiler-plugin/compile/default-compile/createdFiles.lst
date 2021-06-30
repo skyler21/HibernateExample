@@ -1,0 +1,4 @@
+com/mastertheboss/domain/Employee.class
+com/mastertheboss/domain/App.class
+com/mastertheboss/domain/Department.class
+com/mastertheboss/util/HibernateUtil.class
